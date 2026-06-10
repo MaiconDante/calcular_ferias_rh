@@ -8,10 +8,7 @@ O projeto foi criado com foco em simplicidade, usabilidade e automatização dos
 
 ## 📷 Demonstração
 
-
-```markdown
 ![Tela Principal](docs/preview.png)
-```
 
 ---
 
